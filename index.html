@@ -2,42 +2,92 @@
 <html>
 <head>
   <title>Portfolio | Richard Deane</title>
+  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css" />
+  <script defer src=""https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+   <link rel="stylesheet" href="styles/main.css">
+
+   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-</body>
-<header>
+
+<header class="mdl-layout__header mdl-layout__header--transparent">
   <h1>Richard Deane</h1>
   <p class="slogan">Software Developer and Designer residing in Portland, OR.</p>
-  <main>
-    <div class="project featured-project">
+</header>
+
+  <main class="mdl-layout__content mdl-grid">
+    <div class="project featured-project mdl-grid mdl-cell mdl-cell--12-col mdl-cell--4-col-tablet mdl-card mdl-shadow--4dp">
+      <div class="mdl-cell mdl-cell--5-col mdl-cell--12-col-tablet">
       <img src="http://lorempixel.com/350/260/abstract/placeholder-1" alt="project screenshot"/>
-      <h2>Featured Project Name</h2>
-      <p>Project description text</p>
     </div>
-    <div class="project">
+    <div class="mdl-cell mdl-cell--7col">
+      <h2 class="mdl-card__title-text">Featured Project Name</h2>
+      <p class="project-description mdl-card__supporting-text">Project description text</p>
+    </div>
+    </div>
+
+    <div class="project mdl-cell mdl-card mdl-shadow--4dp">
+      <div>
       <img src="http://lorempixel.com/350/260/abstract/placeholder-2" alt="project screenshot"/>
-      <h2>Project Name</h2>
-      <p>Project description text</p>
     </div>
-    <div class="project">
+    <div class="mdl-card__title">
+      <h2 class="mdl-card__title-text">Project Name</h2>
+    </div>
+      <div class="mdl-card__supporting-text">Project description text</div>
+    </div>
+
+    <div class="project mdl-cell mdl-card mdl-shadow--4dp">
+      <div>
       <img src="http://lorempixel.com/350/260/abstract/placeholder-3" alt="project screenshot"/>
-      <h2>Project Name</h2>
-      <p>Project description text</p>
     </div>
-    <div clas="project">
+    <div class="mdl-card__title">
+      <h2 class="mdl-card__title-text">Project Name</h2>
+    </div>
+      <div class="mdl-card__supporting-text">Project description text</div>
+    </div>
+
+    <div class="project mdl-cell mdl-card mdl-shadow--4dp">
+      <div>
       <img src="http://lorempixel.com/350/260/abstract/placeholder-4" alt="project screenshot"/>
-      <h2>Project Name</h2>
-      <p>Project descrition text</p>
+    </div>
+    <div class="mdl-card__title">
+      <h2 class="mdl-card__title-text">Project Name</h2>
+    </div>
+      <div class="mdl-card__supporting-text">Project description text</div>
     </div>
   </main>
-  <footer>
-    <ul>
-      <li> <a href="http://github.com/titchimoto">GitHub</a> </li>
-      <li> <a href="http://linkedin.com/richardcharlesdeane">LinkedIn</a> </li>
-      <li> <a href="http://facebook.com/titchimoto">Facebook</a> </li>
-      <li> <a href="http://twitter.com/titchimoto">Twitter</a> </li>
-      <li> <a href="mailto:titchimoto@icloud.com">Email</a> </li>
+</body>
 
+  <footer class="mdl-mini-footer">
+    <ul class="mdl-mini-footer__link-list">
+      <li>
+        <a href="http://github.com/titchimoto">
+          <i class="fa fa-github-square" aria-hidden="true"></i>
+        </a>
+      </li>
+      <li>
+        <a href="http://linkedin.com/richardcharlesdeane">
+        <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+      </a>
+    </li>
+      <li>
+        <a href="http://facebook.com/titchimoto">
+        <i class="fa fa-facebook-square" aria-hidden="true"></i>
+      </a>
+    </li>
+      <li>
+        <a href="http://twitter.com/titchimoto">
+        <i class="fa fa-twitter-square" aria-hidden"true"></i>
+      </a>
+    </li>
+      <li>
+        <a href="mailto:titchimoto@icloud.com">
+        <i class="fa fa-envelope-square" aria-hidden="true"></i>
+        </a>
+      </li>
     </ul>
   </footer>
 
