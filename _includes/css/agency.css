@@ -10,6 +10,16 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.profile-image {
+  border-radius: 50%;
+  margin-bottom: 50px;
+  border: 20px solid #fed236;
+}
+
+.highlight {
+  background-color: #d2a516;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
