@@ -3,13 +3,14 @@ title: EMPLOY
 subtitle: Full-stack jobs board application built in Ruby on Rails.
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2018-04-01
 img: employ.jpg
 thumbnail: employ_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2018
+technologies: Ruby on Rails, RSpec, Devise, Faker, Stripe, AWS
+link: https://aqueous-citadel-74666.herokuapp.com/
+github: https://github.com/titchimoto/jobs-board
+description: EMPLOY is a full-stack web application built using Ruby on Rails, and includes features such as authorization & authentication, AWS File Uploads & Payment Processing.
 
 ---

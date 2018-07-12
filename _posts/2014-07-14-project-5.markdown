@@ -3,13 +3,14 @@ title: Mediterranean Diet Daily
 subtitle: Alexa skill built in Node.js for Mediterranean recipes.
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: 2018-02-01
+img: mediterraneandietdaily.jpg
+thumbnail: mediterraneandietdaily_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: February 2018
+link: https://www.amazon.com/Couleur-Labs-Mediterranean-Diet-Daily/dp/B07B8Q71JV
+github: https://github.com/titchimoto/alexa-mediterranean-diet-daily
+technologies: Node.js, AWS, ASK, Lambda
+description: Mediterranean Diet Daily is a flash briefing skills for Amazon Alexa-enabled devices. Everyday you will hear ideas for Breakfast, Lunch and Dinner to help provide inspiration and motivation for your Mediterranean inspired lifestyle.
 
 ---

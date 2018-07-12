@@ -3,13 +3,14 @@ title: Feed The Cat
 subtitle: Pomodoro timer built using React & Firebase.
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2018-03-01
 img: feedthecat.jpg
 thumbnail: feedthecat_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: March 2018
+link: https://shielded-hollows-19552.herokuapp.com/
+github: https://github.com/titchimoto/pomodoro
+technologies: React, HTML5, CSS, Firebase
+description: Feed the Cat is a Pomodoro Timer, designed to help you boost productivity and master time-management. It is built in React, with Firebase used to store user tasks.
 
 ---

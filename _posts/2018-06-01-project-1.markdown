@@ -6,10 +6,12 @@ modal-id: 1
 date: 2018-06-01
 img: podcastle.jpg
 thumbnail: podcastle.jpg
+technologies: Node.js, React, MongoDB, Express, HTML5, CSS, RESTful API, PassportJS, Semantic-UI, Jest, Enzyme
 alt: image-alt
 project-date: June 2018
 link: https://podcastle.herokuapp.com
+github: https://github.com/titchimoto/podcast-player
 category: Full Stack Application
-description: PodCastle is a Web-based podcast player application providing users with player, search and library functionality. It is built using the MERN stack.
+description: PodCastle is a Web-based podcast player application providing users with player, search and library functionality. Built using the MERN stack, it features a full user authentication suite using PassportJS. Users can sign-up and login & can also store podcast subscriptions. The front-end was built using React and is fully responsive, with tasteful styling with the help of the Semantic-UI library. There is also a small test suite using Enzyme & Jest.
 
 ---

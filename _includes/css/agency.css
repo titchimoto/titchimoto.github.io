@@ -18,6 +18,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.btn-xl {
+  margin-top: 30px;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -303,8 +307,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 150px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
@@ -772,7 +776,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    padding: 11px 0;
     min-height: 100%;
     border: 0;
     border-radius: 0;

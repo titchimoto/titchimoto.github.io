@@ -3,13 +3,15 @@ title: BlocRecord
 subtitle: BlocRecord is my version of an ORM, similar to ActiveRecord, built in Ruby.
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2018-05-01
+img: blocrecord.jpg
+thumbnail: blocrecord_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: May 2018
+link: https://github.com/titchimoto/bloc_record
+github: https://github.com/titchimoto/bloc_record
+technologies: Ruby, SQL
+description: Bloc Record is my version of an ORM, similar to ActiveRecord, built using Ruby.
+
 
 ---
