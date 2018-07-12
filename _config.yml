@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
+url: https://titchimoto.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Richard Deane
+title: Richard Deane - Software Engineer Portfolio
 email: titchimoto@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "The personal portfolio website of Richard Deane, a full-stack software engineer residing in Portland, OR."
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -18,8 +18,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line:
+  - line:
 
 # Build settings
 markdown: kramdown
