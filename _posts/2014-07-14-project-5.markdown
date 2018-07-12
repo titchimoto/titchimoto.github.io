@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Mediterranean Diet Daily
+subtitle: Alexa skill built in Node.js for Mediterranean recipes.
 layout: default
 modal-id: 5
 date: 2014-07-14

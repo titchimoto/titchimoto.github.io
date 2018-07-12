@@ -1,15 +1,12 @@
 ---
-title: Escape
-subtitle: Website Design
+title: React RSS Podcast Player
+subtitle: Open Source Podcast Player component for React.
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: rss_podcast_player_screenshot.jpg
+thumbnail: rss_podcast_player_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+link: https://github.com/titchimoto/react-rss-podcast-player
+description: The React RSS Podcast Player is a React component that, when provided with a valid RSS link, will create a fully functioning HTML5 based Podcast player to utilize in your projects. This is an open source project that I created and is available to download as a package via npm.
 
 ---

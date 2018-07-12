@@ -1,0 +1,15 @@
+---
+title: PodCastle
+subtitle: Full-stack, browser-based Podcast Player, built using the MERN stack.
+layout: default
+modal-id: 1
+date: 2018-06-01
+img: podcastle.jpg
+thumbnail: podcastle.jpg
+alt: image-alt
+project-date: June 2018
+link: https://podcastle.herokuapp.com
+category: Full Stack Application
+description: PodCastle is a Web-based podcast player application providing users with player, search and library functionality. It is built using the MERN stack.
+
+---
