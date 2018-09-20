@@ -248,6 +248,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.container-header {
+  transform: rotate(-4deg);
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -291,6 +295,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    transform: rotate(6deg);
 }
 
 header .intro-text {
@@ -314,6 +319,7 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
 }
+
 
 @media(min-width:768px) {
     header .intro-text {
@@ -365,6 +371,21 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+#services {
+  background-color: #f7f7f7;
+  transform: rotate(-6deg);
+  padding: 70px 0 70px 0;
+}
+
+.container-services {
+  transform: rotate(6deg);
+}
+
+#portfolio {
+  transform: rotate(6deg);
+  background-color: #fed236;
 }
 
 #portfolio .portfolio-item {
@@ -437,6 +458,10 @@ section h3.section-subheading {
 
 #portfolio * {
     z-index: 2;
+}
+
+.container-portfolio {
+  transform: rotate(-6deg);
 }
 
 @media(min-width:767px) {
@@ -669,10 +694,15 @@ aside.clients img {
     margin: 50px auto;
 }
 
+.container-contact {
+  transform: rotate(6deg);
+}
+
 section#contact {
     background-color: #222;
     background-position: center;
     background-repeat: no-repeat;
+    transform: rotate(-6deg);
 }
 
 section#contact .section-heading {
@@ -734,7 +764,7 @@ section#contact .text-danger {
 }
 
 footer {
-    padding: 25px 0;
+    padding: 55px 0;
     text-align: center;
 }
 
@@ -876,4 +906,9 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+/* Rotations */
+#contact {
+  transform: rotate(-8deg);
 }
