@@ -1,0 +1,17 @@
+---
+title: iFlipd
+subtitle: Full-stack application renting video games and textbooks by the week.
+layout: default
+modal-id: 1
+date: 2018-10-01
+img: iflipd.jpg
+thumbnail: iflipd.jpg
+technologies: Node.js, React, Redux, MongoDB, GraphQL/Apollo, Koa, HTML5, CSS, Mocha/Chai/Enzyme/Cypress.
+alt: image-alt
+project-date: Oct 2018 - Present
+link: https://iflipd.com
+github: https://github.com/titchimoto
+category: Full Stack Application
+description: iFlipd is a full-stack web application that rents video games and textbooks by the week to students. It is a full stack JavaScript application built with a React front-end and a Node.js backend, with a GraphQL API (using Apollo). It has a MongoDB database containing hundred of thousands of documents and an ElasticSearch engine for search purposes.
+
+---
