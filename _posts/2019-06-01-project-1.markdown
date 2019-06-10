@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2018-10-01
 img: iflipd.jpg
-thumbnail: iflipd.jpg
+thumbnail: iflipd_thumbnail.jpg
 technologies: Node.js, React, Redux, MongoDB, GraphQL/Apollo, Koa, HTML5, CSS, Mocha/Chai/Enzyme/Cypress.
 alt: image-alt
 project-date: Oct 2018 - Present
