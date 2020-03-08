@@ -2,7 +2,7 @@
 title: Feed The Cat
 subtitle: Pomodoro timer built using React & Firebase.
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2018-03-01
 img: feedthecat.jpg
 thumbnail: feedthecat_thumbnail.jpg

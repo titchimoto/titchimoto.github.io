@@ -1,0 +1,16 @@
+---
+title: dBocl
+subtitle: UI/UX Designer and Front-end Developer for event management app.
+layout: default
+modal-id: 2
+date: 2019-05-01
+img: dbocl.jpg
+thumbnail: dbocl_thumbnail.jpg
+technologies: Figma, React, Storybook, TypeScript, GraphQL, HTML, CSS.
+alt: image-alt
+project-date: May 2019 - October 2019
+link: https://dbocl.com
+github: https://dbocl.com
+category: Full Stack Application
+description: Reworked, refreshed and redesigned app UI & UX. Built prototypes in Storybook and implement in TypeScript React app.
+---

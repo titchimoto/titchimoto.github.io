@@ -1,0 +1,16 @@
+---
+title: Nike
+subtitle: Front-end Developer for experiences across Nike.com
+layout: default
+modal-id: 1
+date: 2019-10-01
+img: nike.jpg
+thumbnail: nike_thumbnail.jpg
+technologies: JavaScript, React, Redux, Node.js, GraphQL, HTML5, CSS, Mocha/Chai/Enzyme/Cypress, AWS.
+alt: image-alt
+project-date: Oct 2019 - Present
+link: https://nike.com
+github: https://nike.com
+category: Full Stack Application
+description: Swoosh swoosh. Front-end developer.
+---

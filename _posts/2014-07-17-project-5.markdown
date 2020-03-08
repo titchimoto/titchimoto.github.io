@@ -2,7 +2,7 @@
 title: React RSS Podcast Player
 subtitle: Open Source Podcast Player component for React.
 layout: default
-modal-id: 3
+modal-id: 5
 date: 2018-06-01
 img: rss_podcast_player_screenshot.jpg
 thumbnail: rss_podcast_player_thumbnail.jpg

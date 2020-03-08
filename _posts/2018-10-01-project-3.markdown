@@ -2,13 +2,13 @@
 title: iFlipd
 subtitle: Full-stack application renting video games and textbooks by the week.
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2018-10-01
 img: iflipd.jpg
 thumbnail: iflipd_thumbnail.jpg
 technologies: Node.js, React, Redux, MongoDB, GraphQL/Apollo, Koa, HTML5, CSS, Mocha/Chai/Enzyme/Cypress.
 alt: image-alt
-project-date: Oct 2018 - Present
+project-date: Oct 2018 - Oct 2019
 link: https://iflipd.com
 github: https://github.com/titchimoto
 category: Full Stack Application
