@@ -1,3 +1,8 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
 {{ content }}
+
+
+div {
+  color: red!important;
+}
