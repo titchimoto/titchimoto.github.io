@@ -1,0 +1,16 @@
+---
+title: Hippo Education
+subtitle: Software Developer for Hippo Education LLC
+layout: default
+modal-id: 1
+date: 2019-10-01
+img: hippo.png
+thumbnail: hippo_thumbnail.png
+technologies: JavaScript/TypeScript, React, React Native, Node, GraphQL, Jest/Cypress.
+alt: image-alt
+project-date: Jan 2021 - Present
+link: https://hippoeducation.com
+github: https://hippoeducation.com
+category: Full Stack Application
+description: Hippo Education. Software Developer.
+---
