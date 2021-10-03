@@ -296,7 +296,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    transform: rotate(6deg) translate(75px, -75px);
+    transform: rotate(6deg) translate(-75px, -75px);
     width: calc(100% + 150px);
 }
 
@@ -390,6 +390,7 @@ section h3.section-subheading {
   background-color: #fed236;
   transform: rotate(6deg) translate(-75px, 0);
   width: calc(100% + 150px);
+  padding: 100px 0;
 }
 
 #portfolio .portfolio-item {
@@ -708,6 +709,7 @@ section#contact {
     background-repeat: no-repeat;
     transform: rotate(-6deg) translate(-75px, 0);
     width: calc(100% + 150px);
+    padding: 120px 0;
 }
 
 section#contact .section-heading {
